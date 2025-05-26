@@ -41,5 +41,3 @@ The program simulates the call log functionality commonly found in mobile phones
 This Call Log History system provides a functional and user-friendly way to manage call records in C. It effectively showcases data structure manipulation and real-time tracking of user actions. This program can be extended further to include features like saving call logs to a file or integrating a full contact management system.
 
 ---
-
-*Developed by Tarlana Vidya (23MIA1176)*
